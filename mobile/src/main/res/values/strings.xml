@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Hey!</string>
+    <string name="title_activity_connect">Get Connected</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search_title">Searching</string>
+    <string name="search_summary">For some bridges!</string>
+
+    <string name="authenticate_title">Authentication</string>
+    <string name="authenticate_summary">Please push the push link button.</string>
+
+    <string name="error_title">Error</string>
+
+    <string name="error_no_connection">You must be connected to the internet.</string>
+    <string name="error_authentication">Authentication failed.</string>
+    <string name="error_push_link">Push link button wasn\'t pressed. Please try again.</string>
+    <string name="error_no_bridges">Could not find any bridges. Make sure you\'re on the same network as the bridge.</string>
+    <string name="error_last_known">Could not connect to last known bridge. Press \'OK\' to connect to a new bridge</string>
+
+    <string name="error_no_lights_title">No lights found</string>
+    <string name="error_no_lights_summary">Make sure your lights are connected properly, and that you\'re connected to the correct bridge.</string>
+
+    <string name="ip">IP: </string>
+    <string name="mac">Mac: </string>
+
+    <string name="button_positive">OK</string>
+
+    <string name="lights_on">Hey, who turned ON the lights?!</string>
+    <string name="lights_off">Hey, who turned out the lights?!</string>
+
+    <string name="connecting_title">Connecting</string>
+    <string name="connecting_summary">Trying to connect to last connected bridge.</string>
+
+    <string name="category_general">General</string>
+    <string name="sound_title">Sound effect</string>
+    <string name="sound_summary_off">Sound effect will not play</string>
+    <string name="sound_summary_on">Sound effect will play</string>
+
+    <string name="category_lights">Light configuration</string>
+    <string name="lights_summary_off">Light will not be affected</string>
+    <string name="lights_summary_on">Light will turn off</string>
+
+    <string name="category_testing">Testing</string>
+    <string name="test_off_title">Lights off</string>
+    <string name="test_off_summary">Click here to turn your selected lights off</string>
+    <string name="test_on_title">Lights on</string>
+    <string name="test_on_summary">Click here to turn your selected lights back on</string>
+</resources>

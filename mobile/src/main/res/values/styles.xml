@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat">
+        <item name="android:alertDialogTheme">@style/AppThemeDialog</item>
+
+        <item name="colorPrimary">@color/appPrimary</item>
+        <item name="colorPrimaryDark">@color/appPrimaryDark</item>
+        <item name="colorAccent">@color/appAccent</item>
+        <item name="android:colorBackground">@color/appBackground</item>
+        <item name="android:colorForeground">@color/appForeground</item>
+    </style>
+
+    <style name="AppThemeDialog" parent="@style/Theme.AppCompat.Dialog.Alert">
+        <item name="colorPrimary">@color/appPrimary</item>
+        <item name="colorPrimaryDark">@color/appPrimaryDark</item>
+        <item name="colorAccent">@color/appAccent</item>
+        <item name="android:colorBackground">@color/appBackground</item>
+        <item name="android:colorForeground">@color/appForeground</item>
+    </style>
+</resources>
